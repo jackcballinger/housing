@@ -1,0 +1,2 @@
+python rightmove.py
+python zoopla.py
